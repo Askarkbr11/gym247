@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd gym && npm install && npm run build",
+  "devCommand": "cd gym && npm run dev",
+  "installCommand": "cd gym && npm install",
+  "framework": "nextjs",
+  "regions": ["dub1"]
+}
